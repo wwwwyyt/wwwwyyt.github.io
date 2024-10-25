@@ -262,15 +262,15 @@
 <title>消逝在江北的少女</title></head>
 <body><h1>消逝在江北的少女</h1>
 <div>
-    <img src="/public/img/扫描全能王 2024-02-18 00.05.jpg">
+    <img src="/img/扫描全能王 2024-02-18 00.05.jpg">
 </div>
 <p>一切要从一本十多年前的相册说起。相册的背面是一个画风旧但是很美的少女。</p>
 <div>
-    <img src="/public/img/标题画面.png">
+    <img src="/img/标题画面.png">
 </div>
 <p>之后要说到《消逝在江北的电波》这个没写完的故事了，我想用这个少女的剪影表达那种“夏日易逝”的感觉。</p>
 <div>
-    <img src="/public/img/头像.png">
+    <img src="/img/头像.png">
 </div>
 <p>也许裁剪成正方形就可以作为光盘的封面了。</p>
 </body>
